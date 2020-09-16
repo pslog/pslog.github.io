@@ -16,8 +16,9 @@ comments: true
 		<p>
 			<strong>Viết để được sống "nhiều" hơn.</strong>
 		</p>
-		<p>Một trích dẫn của Einstein mà tôi rất thích:</p>
 		<p>
+			Một trích dẫn của Einstein mà tôi rất thích:
+			<br/>
 			<strong>If you can’t explain it simply, you don’t understand it well enough.</strong>
 		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
@@ -31,7 +32,7 @@ comments: true
 
 			<p>Thank you for your support! Your donation helps me to maintain and improve The 0712 blog.</p>
 
-			<a href="#" onClick="" class="btn btn-danger">Buy me a coffee</a> 
+			<a href="#" onClick="alert('Thank you for your support!!')" class="btn btn-danger">Buy me a coffee</a> 
 
 		</div>
 	</div>
