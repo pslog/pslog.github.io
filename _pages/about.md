@@ -14,13 +14,11 @@ comments: true
 Những bài viết về trải nghiệm, hiểu biết của tôi — một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
 </p>
 
-<h4>Viết để được sống “nhiều” hơn.</h4>
+####Viết để được sống "nhiều" hơn.
 
-<p>
-Một trích dẫn của Einstein mà tôi rất thích:
-</p>
+<p>Một trích dẫn của Einstein mà tôi rất thích:</p>
 
-<h4>If you can’t explain it simply, you don’t understand it well enough.</h4>
+####If you can’t explain it simply, you don’t understand it well enough.</h4>
 
 <p>Chúc bạn một ngày tốt lành!</p>
 
@@ -33,7 +31,7 @@ Một trích dẫn của Einstein mà tôi rất thích:
 
 <p>Thank you for your support! Your donation helps me to maintain and improve The 0712 blog.</p>
 
-<a target="_blank" href="#"　onClick="alert('Thank you for your support!!')" class="btn btn-danger">Buy me a coffee</a> 
+<a target="_blank" href="#" class="btn btn-danger">Buy me a coffee</a> 
 
 </div>
 </div>
