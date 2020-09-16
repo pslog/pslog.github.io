@@ -6,33 +6,33 @@ comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+	<div class="col-md-8 pr-5">
 
-<p>
-Đây là blog về cuộc sống của tôi. 
+		<p>
+			Đây là blog về cuộc sống của tôi. 
+			<br/>
+			Những bài viết về trải nghiệm, hiểu biết của tôi — một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
+		</p>
+		<p>
+			<strong>Viết để được sống "nhiều" hơn.</strong>
+		</p>
+		<p>Một trích dẫn của Einstein mà tôi rất thích:</p>
+		<p>
+			<strong>If you can’t explain it simply, you don’t understand it well enough.</strong>
+		</p>
+		<p>Chúc bạn một ngày tốt lành!</p>
 
-Những bài viết về trải nghiệm, hiểu biết của tôi — một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
-</p>
+	</div>
 
-####Viết để được sống "nhiều" hơn.
+	<div class="col-md-4">
 
-<p>Một trích dẫn của Einstein mà tôi rất thích:</p>
+		<div class="sticky-top sticky-top-80">
+			<h5>Buy me a coffee</h5>
 
-####If you can’t explain it simply, you don’t understand it well enough.</h4>
+			<p>Thank you for your support! Your donation helps me to maintain and improve The 0712 blog.</p>
 
-<p>Chúc bạn một ngày tốt lành!</p>
+			<a href="#" onClick="" class="btn btn-danger">Buy me a coffee</a> 
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve The 0712 blog.</p>
-
-<a target="_blank" href="#" class="btn btn-danger">Buy me a coffee</a> 
-
-</div>
-</div>
+		</div>
+	</div>
 </div>
