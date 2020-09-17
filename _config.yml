@@ -4,7 +4,7 @@ title: "The 0712"
 description: "Tất cả đều không quan trọng, sống tốt mỗi ngày mới là điều cần thiết!"
 logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
-baseurl: '~/'
+baseurl: ''
 #google_analytics: 'UA-46278016-1'
 disqus: 'vovansinh-github-io'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
