@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cám ơn bạn đã ghé thăm blog The 0712!
+title: Cám ơn bạn đã ghé thăm The Happiness Writer!
 permalink: /about
 comments: true
 ---
@@ -15,7 +15,8 @@ comments: true
 		<p>
 			Đây là blog về cuộc sống của tôi. 
 			<br/>
-			Những bài viết về trải nghiệm, hiểu biết của tôi - một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
+			Những bài viết về trải nghiệm, hiểu biết của tôi 
+			- một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
 		</p>
 		<p>
 			<strong>Viết để được sống "nhiều" hơn.</strong>
@@ -34,9 +35,9 @@ comments: true
 		<div class="sticky-top sticky-top-80">
 			<h5>Buy me a coffee</h5>
 
-			<p>Thank you for your support! Your donation helps me to maintain and improve The 0712 blog.</p>
+			<p>Thank you for your support! Your donation helps me to maintain and improve The Happiness Writer.</p>
 
-			<a href="#" onClick="alert('Thank you for your support!!')" class="btn btn-danger">Buy me a coffee</a> 
+			<a href="#" onClick="alert('Cảm ơn bạn đã nghĩ đến điều này!!!')" class="btn btn-danger">Buy me a coffee</a> 
 
 		</div>
 	</div>

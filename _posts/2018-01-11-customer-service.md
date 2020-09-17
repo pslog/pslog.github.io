@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inception Movie"
-author: suutam
+author: binchan
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg

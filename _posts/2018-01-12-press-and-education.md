@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Press and education"
-author: sinhvv
+author: binchan
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
 ---

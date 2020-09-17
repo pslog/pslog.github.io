@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Never stopped worrying or loving the bomb"
-author: sinhvv
+author: suutam
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 ---
