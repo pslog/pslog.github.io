@@ -8,14 +8,14 @@ comments: true
 <div class="row justify-content-between">
 	<div class="col-md-8 pr-5">
 
-		<p class="mb-5">
-			<img class="shadow-lg" src="{{site.baseurl}}/assets/images/me.jpg" />
+		<p class="mb-5" style="margin-bottom: 1rem !important;">
+			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.png" />
 		</p>
 
 		<p>
 			Đây là blog về cuộc sống của tôi. 
 			<br/>
-			Những bài viết về trải nghiệm, hiểu biết của tôi — một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
+			Những bài viết về trải nghiệm, hiểu biết của tôi - một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
 		</p>
 		<p>
 			<strong>Viết để được sống "nhiều" hơn.</strong>
