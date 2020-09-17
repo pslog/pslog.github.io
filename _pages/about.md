@@ -13,21 +13,25 @@ comments: true
 		</p>
 
 		<p>
-			Đây là blog về cuộc sống của tôi. 
+			Đây là blog về cuộc sống của hai người bạn đời.
 			<br/>
-			Những bài viết về trải nghiệm, hiểu biết của tôi 
-			- một người ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và quan sát học hỏi thêm nhiều điều từ thế giới.
+			Blog về những trải nghiệm, hiểu biết của vợ chồng tôi - hai con người trẻ, đang ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và hướng đến những điều hoàn hảo, hoàn thiện bản thân từng chút một.
+			<br/>
+			Và đang học cách để "Yêu từ những điều không hoàn hảo".
+		</p>
+		<p>		
+			<strong>Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.</strong>
+			<br/>
+			Chả có ai thực sự cán đích, khi không hiểu cái gì cần thiết cho hạnh phúc của mình... 
+			<br/>
+			Vì thế, hãy cứ sống, hãy cứ yêu, hãy cứ bộc lộ những yêu thương khi còn có thể ! 
+			<br/>
+			Hạnh phúc ở gần ngay bạn, ngay trong chính cuộc sống này!
 		</p>
 		<p>
 			<strong>Viết để được sống "nhiều" hơn.</strong>
 		</p>
-		<p>
-			Một trích dẫn của Einstein mà tôi rất thích:
-			<br/>
-			<strong>If you can’t explain it simply, you don’t understand it well enough.</strong>
-		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
-
 	</div>
 
 	<div class="col-md-4">
