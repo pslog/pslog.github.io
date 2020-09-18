@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cám ơn bạn đã ghé thăm PSLog!
+title: Cám ơn bạn đã ghé thăm PSlog!
 permalink: /about
 comments: true
 ---
@@ -39,7 +39,7 @@ comments: true
 		<div class="sticky-top sticky-top-80">
 			<h5>Buy me a coffee</h5>
 
-			<p>Thank you for your support! Your donation helps me to maintain and improve PSLog.</p>
+			<p>Thank you for your support! Your donation helps me to maintain and improve PSlog.</p>
 
 			<a href="#" onClick="alert('Cảm ơn bạn đã nghĩ đến điều này!!!')" class="btn btn-danger">Buy me a coffee</a> 
 
