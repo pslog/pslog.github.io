@@ -13,7 +13,7 @@ comments: true
 		</p>
 
 		<p>
-			Đây là blog về những trải nghiệm, hiểu biết của vợ chồng tôi.
+			Đây là blog viết về những trải nghiệm và hiểu biết của vợ chồng tôi.
 			<br/>
 			Hai con người trẻ, đang ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và hướng đến những điều hoàn hảo, hoàn thiện bản thân từng chút một.
 			<br/>
