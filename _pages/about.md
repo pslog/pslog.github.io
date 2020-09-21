@@ -41,7 +41,7 @@ comments: true
 
 			<p>Thank you for your support! Your donation helps me to maintain and improve PSlog.</p>
 
-			<a href="#" onClick="alert('Cảm ơn bạn đã nghĩ đến điều này!!!')" class="btn btn-danger">Buy me a coffee</a> 
+			<a href="#" onClick="alert('Cảm ơn bạn đã nghĩ đến điều này!!!');return false;" class="btn btn-danger">Buy me a coffee</a> 
 
 		</div>
 	</div>

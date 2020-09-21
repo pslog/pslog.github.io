@@ -49,15 +49,22 @@ post_class: post-template
             {% endif %}
             <!-- End Adsense -->
 
-			<!-- Post Date -->
-            <p style="text-align: right">
-				<small>
-					<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-					{% if page.last_modified_at %}
-					(Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-					{% endif %}
-                </small>
-            </p>
+			<!-- Rating -->
+            {% if page.rating %}
+            <div class="rating mb-4 d-flex align-items-center">
+                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+				
+				<!-- Post Date -->
+				<p style="text-align: right">
+					<small>
+						<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+						{% if page.last_modified_at %}
+						(Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+						{% endif %}
+					</small>
+				</p>
+            </div>
+            {% endif %}
 			
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -86,13 +93,6 @@ post_class: post-template
                 <!-- End Toc -->
                 {{content}}
             </div>
-
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
             
             <!-- Post Categories -->
             <div class="after-post-cats">
