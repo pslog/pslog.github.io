@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: page
 title: Câu chuyện của Bin
+permalink: /binstory
+comments: true
 ---
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Câu chuyện của Bin</span></h2>
-    </div>
-    <div class="row">
+<div class="row justify-content-between">
+	<div class="col-md-12 pr-5">
 		<p>
 			Xin chào mọi người !
 			<br/>
@@ -32,37 +29,5 @@ title: Câu chuyện của Bin
 		</p>
 		
 		<p>Chúc bạn một ngày tốt lành!</p>
-    </div>
-</section>
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+	</div>
 </div>
-
