@@ -1,7 +1,7 @@
 # Site
 name: "PSlog"
 title: "PSlog"
-description: "Viết để được sống nhiều hơn!"
+description: "Viết để được sống nhiều hơn."
 logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
 baseurl: ''
