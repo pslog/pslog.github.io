@@ -8,7 +8,7 @@ image: assets/images/16.jpg
 description: "雨は雨で家にいても楽しいことはたくさんできる"
 featured: true
 hidden: true
-rating: 4.0
+rating: 4
 ---
 
 雨は雨で家にいても楽しいことはたくさんあります。
