@@ -2,7 +2,7 @@
 layout: post
 title:  "Cuộc sống của mình trong những ngày cuối hè"
 author: suutam
-categories: [ 日記 ]
+categories: [ diary ]
 tags: []
 image: assets/images/11.jpg
 description: "9月の始まりは雨、終わりは晴れ"

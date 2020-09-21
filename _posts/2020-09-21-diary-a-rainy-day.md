@@ -2,7 +2,7 @@
 layout: post
 title:  "Một ngày mưa đầu tháng 8"
 author: suutam
-categories: [ 日記 ]
+categories: [ diary ]
 tags: []
 image: assets/images/16.jpg
 description: "雨は雨で家にいても楽しいことはたくさんできる"
