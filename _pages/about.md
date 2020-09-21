@@ -8,10 +8,6 @@ comments: true
 <div class="row justify-content-between">
 	<div class="col-md-8 pr-5">
 
-		<p class="mb-5" style="margin-bottom: 1rem !important;">
-			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.png" />
-		</p>
-
 		<p>
 			Đây là blog viết về những trải nghiệm và hiểu biết của vợ chồng tôi.
 			<br/>
@@ -19,6 +15,11 @@ comments: true
 			<br/>
 			Và đang học cách để "Yêu từ những điều không hoàn hảo".
 		</p>
+		
+		<p class="mb-5" style="margin-bottom: 1rem !important;">
+			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.png" />
+		</p>
+
 		<p>		
 			<strong>Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.</strong>
 			<br/>
