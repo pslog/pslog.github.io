@@ -1,27 +1,80 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title: 'Let''s test spoilers'
 author: sinhvv
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/12.jpg
 featured: false
 hidden: false
 ---
+Mở đầu chuỗi series về ngữ pháp tiếng Nhật sẽ là 「～てある」
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
-
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
-
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
-
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
+## Cách dùng 1:
+「～てある」biểu thị trạng thái sau khi một hành động đã được thực hiện trước đó.
+Giống với thể ている - ở cách dùng biểu thị trạng thái.
+#### Hình thức dùng:
 ```html
-<span class="spoiler">My hidden paragraph here.</span>
+「～が＋他動詞＋てある」（が＋自動詞＋ている）
 ```
+※ Ở cách dùng này thông thường trợ từ đi cùng sẽ là 「が」.
+Nhưng 「が」 có thể sẽ được thay thế bằng trợ từ 「は」và 「も」 khi sự vật sự việc trước 「が」 là chủ đề chung của cả người nói và người nghe.
+
+#### ※Phân biệt giữa 「～てある」「～ている」
+「～てある」nhấn mạnh vào ý đồ của người đã thực hiện hành động
+「～ている」nhấn mạnh vào trạng thái hiện tại của sự vật sự việc.
+
+- Ví dụ 1:
+A: ああ、寒い。あっ、窓が開いていますね。
+B:寒いですか。
+タバコくさかったので、開けてあるんですよ。
+すぐ閉めますから、ちょっと我慢してくださいね。
+
+A nhìn vào trạng thái hiện tại của cửa sổ và nói 「開ている」
+B giải thích là đã mở cửa để khử mùi thuốc lá.
+Như vậy mở cửa là hành động có ý đồ của B nên B đã dùng 「開けてある」.
+
+## Cách dùng 2:
+「～てある」 biểu thị hành động đã được làm nhằm một mục đích nào đấy.
+（Ở cấu trúc ｢～ている｣không có cách dùng này)
+
+#### Hình thức dùng:
+```html
+「～が／を＋他動詞＋てある」
+```
+- Ví dụ 2:
+A：何時の新幹線に乗るんですか？
+B:9時です。もう切符を買ってあるので、ぎりぎりに行っても大丈夫です。
+
+Ở hội thoại này B có thể dùng cả hai cách là 「切符を買ってある」và 「切符が買ってある」.
+Khi sử dụng 「を」trong 「切符を買ってある」 sẽ thể hiện hành động đã mua (買った) của người nói.
+Khi sử dụng 「が」trong 「切符が買ってある」 sẽ biểu thị trạng thái kết quả đã mua rồi sẵn rồi 「もう買ってある」.
+
+「が」「を」cũng có khi được thay thế bằng 「は」 và 「も」.
+Đó là khi sự vật sự việc đứng trước 「が」「を」 là chủ đề chung đối với cả người nói và người nghe như ví dụ 3 sau đây:
+- Ví dụ 3:
+A:何時の新幹線に乗るんですか。
+B:9時です。
+A:切符はもう買ってあるんですか。
+B：ええ、買ってあります。
+A：ホテルの予約は。
+B:ええ、ホテルの予約もとってあります。
+
+Cách sử dụng 2 của 「てある」(Làm sẵn vì mục đích nào đấy) gần giống với 「～ておく」(làm sẵn/làm trước vì mục đích nào đấy).
+
+- Ví dụ 4:
+A:9時の新幹線の切符はどうなりましたか。
+B：もう買っておきました。
+A:そうですか。ありがとう。で、ホテルの予約は。
+B:ホテルの予約もとっておきました。
+
+「買ってあります」 ở ví dụ 3 và 「買っておきます」「とっておきます」đều biểu thị ý nghĩa làm sẵn/ làm trước vì một mục đích nào đấy.
+Tuy nhiên 「～ておく」sẽ nhấn mạnh vào hành động.
+
+Cách dùng của 「～ている」｢～てある｣「～ておく」 sẽ được tóm tắt lại ở sơ đồ bên dưới:
+Trạng thái kết quả⇐		⇒Ý đồ, vì mục đích  gì đấy
+～がている　～がてある　　を～てある　を～ておく
+
+Tài liệu tham khảo:
+https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/pdf/NK51_16-17.pdf
