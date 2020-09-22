@@ -40,7 +40,5 @@ clorua, niacin, canxi pantothenat, vitamin E, vitamin B6, vitamin B1, vitamin A,
 ### Cách pha:
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-1.jpg" alt="{{ page.title }}">
 
-<img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-5.png" alt="{{ page.title }}">
-
 ### Nguồn tham khảo:
 https://www.meiji.co.jp/
