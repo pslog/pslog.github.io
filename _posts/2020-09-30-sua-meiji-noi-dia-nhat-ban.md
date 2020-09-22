@@ -1,105 +1,38 @@
 ---
 layout: post
-title:  "Sữa Meiji nội địa Nhật Bản"
+title:  "Sữa bột Meiji Step (800gr)(1~3 tuổi)"
 author: binchan
 categories: [ Akachan ]
 image: assets/images/16.jpg
-rating: 3
+rating: 5
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+### Mô tả sản phẩm:
+Meiji Step là sản phẩm dinh dưỡng dùng để bổ sung đầy đủ các chất dinh dưỡng hay bị thiếu cho sự phát triển của trẻ nhỏ từ 1~3 tuổi.
+Chính vì vậy mà sản phẩm đã dành được vị trí đứng đầu doanh thu tại thị trường Nhật Bản
 
+### Đặc điểm nổi bật:
+Sữa Meiji có vị tự nhiên, nhạt, thơm mát tương đương như vị sữa mẹ.
+Bổ sung 100% lượng chất sắt và can-xi cần thiết cho sự phát triển của trẻ, đặc biệt là chất sắt, vốn khó hấp thụ đầy đủ từ sữa bò và thực phẩm hàng ngày.
+⇒Dán hình ảnh chất sắt
 
-## Special formatting
+Cung cấp đầy đủ hơn 70% lượng khuyến cáo của 15 loại dinh dưỡng cần thiết cho trẻ.
+⇒Dán hình ảnh 15 loại dinh dưỡng 
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+Bổ sung DHA hỗ trợ cho sự tăng trưởng của trẻ.
+⇒Dán hình ảnh bổ sung DHA trong sữa Meiji Step
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+### Thông tin chi tiết sản phẩm : 
+1. Thành phần: Lactose, dầu ăn điều chỉnh (dầu hướng dương giàu olein, dầu hạt cải, dầu đậu nành tinh luyện, dầu hạt cọ, dầu cọ phân đoạn, dầu cá tinh chế),
+bột bơ sữa, tinh bột đường hoá, bột whey, sữa bột tách béo, casein, bột whey cô đặc protein, dextrin, đường oligo fructo, chất điều tiết lên men kem, muối ăn, canxi
+cacbonat, canxi phốt phát, kali cacbonat, magie clorua, magie sunphat, vitamin C, sắt pyro-phốt phát, kali clorua, magie sunphat, vitamin C, sắt pyro-phốt phát, kali 
+clorua, niacin, canxi pantothenat, vitamin E, vitamin B6, vitamin B1, vitamin A, axit folic, vitamin B2, Biotin, vitamin K, vitamin D, vitamin B12.
+2. Khối lượng tịnh: 800g
+3. Độ tuổi sử dụng: Dành cho bé từ 1~3 tuổi
+4. Dạng sữa: Sữa bột
+5. Xuất xứ: Nhật Bản
 
+Cách pha:
+https://www.meiji.co.jp/baby/step/languages/vietnam/images/rakurakucube_vnm2.pdf
 
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+### Giá bán: 650.000 đồng (có kèm bill)
