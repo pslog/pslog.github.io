@@ -26,15 +26,15 @@ post_class: post-template
 				
                 <!-- Author Box -->
                 {% if page.author %}
-					<div class="post-top-meta" style="margin-bottom:0px;display:inline-block;">
-						<div class="col-md-3 col-3" style="display:inline-block;">
+					<div class="post-top-meta" style="margin-bottom:0px;display:inline-block;width:100%;">
+						<div class="col-md-2 col-3" style="display:inline-block;">
 							{% if author.avatar %}
 								<img class="author-thumb mx-0" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
 							{% else %}
 								<img class="author-thumb mx-0" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
 							{% endif %}
 						</div>
-						<div class="col-md-9 col-9" style="display: inline-block;float: right;text-align: left;">
+						<div class="col-md-10 col-9" style="display: inline-block;float: right;text-align: left;">
 							<span>Viết bởi {{ author.display_name }}</span>
 							<br/>
 							<span class="author-description">{{ author.description }}</span>
