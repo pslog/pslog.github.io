@@ -26,15 +26,15 @@ post_class: post-template
 				
                 <!-- Author Box -->
                 {% if page.author %}
-					<div class="row post-top-meta" style="margin-bottom:0px;">
-						<div class="text-md-center mb-4 mb-md-0">
+					<div class="post-top-meta" style="margin-bottom:0px;display:inline-block;">
+						<div class="col-md-2 col-3" style="display:inline-block;">
 							{% if author.avatar %}
 								<img class="author-thumb mx-0" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
 							{% else %}
 								<img class="author-thumb mx-0" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
 							{% endif %}
 						</div>
-						<div class="text-md-left">
+						<div class="col-md-10 col-9" style="display: inline-block;float: right;text-align: left;">
 							<span>By {{ author.display_name }}</span>
 							<br/>
 							<span class="author-description">{{ author.description }}</span>
@@ -51,7 +51,7 @@ post_class: post-template
             <!-- End Adsense -->
 
 			<!-- Post Date -->
-            <p style="text-align: right">
+            <p style="float: right">
 				<small>
 					<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
 					{% if page.last_modified_at %}
