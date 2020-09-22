@@ -14,13 +14,16 @@ Chính vì vậy mà sản phẩm đã dành được vị trí đứng đầu d
 ### Đặc điểm nổi bật:
 Sữa Meiji có vị tự nhiên, nhạt, thơm mát tương đương như vị sữa mẹ.
 Bổ sung 100% lượng chất sắt và can-xi cần thiết cho sự phát triển của trẻ, đặc biệt là chất sắt, vốn khó hấp thụ đầy đủ từ sữa bò và thực phẩm hàng ngày.
-⇒Dán hình ảnh chất sắt
+
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/sua-meiji-2.png" alt="{{ page.title }}">
 
 Cung cấp đầy đủ hơn 70% lượng khuyến cáo của 15 loại dinh dưỡng cần thiết cho trẻ.
-⇒Dán hình ảnh 15 loại dinh dưỡng 
+
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/sua-meiji-3.png" alt="{{ page.title }}">
 
 Bổ sung DHA hỗ trợ cho sự tăng trưởng của trẻ.
-⇒Dán hình ảnh bổ sung DHA trong sữa Meiji Step
+
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/sua-meiji-4.png" alt="{{ page.title }}">
 
 ### Thông tin chi tiết sản phẩm : 
 1. Thành phần: Lactose, dầu ăn điều chỉnh (dầu hướng dương giàu olein, dầu hạt cải, dầu đậu nành tinh luyện, dầu hạt cọ, dầu cọ phân đoạn, dầu cá tinh chế),
@@ -32,7 +35,7 @@ clorua, niacin, canxi pantothenat, vitamin E, vitamin B6, vitamin B1, vitamin A,
 4. Dạng sữa: Sữa bột
 5. Xuất xứ: Nhật Bản
 
-Cách pha:
-https://www.meiji.co.jp/baby/step/languages/vietnam/images/rakurakucube_vnm2.pdf
+### Cách pha:
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/sua-meiji-1.jpg" alt="{{ page.title }}">
 
 ### Giá bán: 650.000 đồng (có kèm bill)
