@@ -8,20 +8,20 @@ rating: 5
 ---
 
 ### Mô tả sản phẩm:
-Meiji Step là sản phẩm dinh dưỡng dùng để bổ sung đầy đủ các chất dinh dưỡng hay bị thiếu cho sự phát triển của trẻ nhỏ từ 1~3 tuổi.
-Chính vì vậy mà sản phẩm đã dành được vị trí đứng đầu doanh thu tại thị trường Nhật Bản
+Meiji Step là sản phẩm dinh dưỡng dùng để bổ sung đầy đủ các chất dinh dưỡng hay bị thiếu cho sự phát triển của trẻ nhỏ từ 1~3 tuổi.  
+Chính vì vậy mà sản phẩm đã dành được vị trí đứng đầu doanh thu tại thị trường Nhật Bản.
 
 ### Đặc điểm nổi bật:
-Sữa Meiji có vị tự nhiên, nhạt, thơm mát tương đương như vị sữa mẹ.
-Bổ sung 100% lượng chất sắt và can-xi cần thiết cho sự phát triển của trẻ, đặc biệt là chất sắt, vốn khó hấp thụ đầy đủ từ sữa bò và thực phẩm hàng ngày.
++ Sữa Meiji có vị tự nhiên, nhạt, thơm mát tương đương như vị sữa mẹ.  
++ Bổ sung 100% lượng chất sắt và can-xi cần thiết cho sự phát triển của trẻ, đặc biệt là chất sắt, vốn khó hấp thụ đầy đủ từ sữa bò và thực phẩm hàng ngày.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-2.png" alt="{{ page.title }}">
 
-Cung cấp đầy đủ hơn 70% lượng khuyến cáo của 15 loại dinh dưỡng cần thiết cho trẻ.
++ Cung cấp đầy đủ hơn 70% lượng khuyến cáo của 15 loại dinh dưỡng cần thiết cho trẻ.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-3.png" alt="{{ page.title }}">
 
-Bổ sung DHA hỗ trợ cho sự tăng trưởng của trẻ.
++ Bổ sung DHA hỗ trợ cho sự tăng trưởng của trẻ.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-4.png" alt="{{ page.title }}">
 
@@ -35,7 +35,10 @@ clorua, niacin, canxi pantothenat, vitamin E, vitamin B6, vitamin B1, vitamin A,
 4. Dạng sữa: Sữa bột
 5. Xuất xứ: Nhật Bản
 
+### Giá bán: 650.000 đồng (có kèm bill)
+
 ### Cách pha:
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-1.jpg" alt="{{ page.title }}">
 
-### Giá bán: 650.000 đồng (có kèm bill)
+### Nguồn tham khảo:
+https://www.meiji.co.jp/
