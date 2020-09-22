@@ -6,8 +6,8 @@ categories: [ diary ]
 tags: []
 image: assets/images/16.jpg
 description: "雨は雨で家にいても楽しいことはたくさんできる"
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 ---
 

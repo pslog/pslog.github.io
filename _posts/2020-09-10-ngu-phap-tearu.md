@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 'Let''s test spoilers'
-author: sinhvv
-categories:
-  - Jekyll
-  - tutorial
+title: 'Ngữ pháp ～てある'
+author: binchan
+categories: [ NihongoBunpo ]
 image: assets/images/12.jpg
-featured: false
+featured: true
 hidden: false
+rating: 4
 ---
 Mở đầu chuỗi series về ngữ pháp tiếng Nhật sẽ là 「～てある」
 
