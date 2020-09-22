@@ -29,7 +29,7 @@ Nhưng 「が」 có thể sẽ được thay thế bằng trợ từ 「は」v
 
 「～ている」nhấn mạnh vào trạng thái hiện tại của sự vật sự việc.
 
-Ví dụ 1:
+==Ví dụ 1:==
 
 ```html
 A: ああ、寒い。あっ、窓が開いていますね。
