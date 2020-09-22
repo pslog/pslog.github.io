@@ -142,11 +142,27 @@ ga('send', 'pageview');
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+					{% if category == site.binstory %}
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/binstory">
+						{{ category | camelcase }} ({{ site.tags[category].size }})
+					</a>
+					{% else %}
+					<a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">
+						{{ category | camelcase }} ({{ site.tags[category].size }})
+					</a>
+					{% endif %}
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+					{% if category[0] == site.binstory %}
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/binstory">
+						{{ category[0] | camelcase }} ({{ category[1].size }})
+					</a>
+					{% else %}
+					<a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">
+						{{ category[0] | camelcase }} ({{ category[1].size }})
+					</a>
+					{% endif %}
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
