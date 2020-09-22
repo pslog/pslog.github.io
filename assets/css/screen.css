@@ -905,3 +905,7 @@ iframe {
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
+.highlight {
+	margin-bottom: 0px !important;
+}
