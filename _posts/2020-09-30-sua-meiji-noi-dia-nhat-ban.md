@@ -3,7 +3,7 @@ layout: post
 title:  "Sữa bột Meiji Step (800gr)(1~3 tuổi)"
 author: binchan
 categories: [ Akachan ]
-image: assets/images/16.jpg
+image: assets/images/akachan/sua-meiji.jpg
 rating: 5
 ---
 
