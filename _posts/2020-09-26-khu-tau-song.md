@@ -13,9 +13,9 @@ rating: 4.5
 À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống nha.
 
 Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
-vợ chồng mình đang sống trong 1 căn hộ nhỏ nhỏ xinh xinh. (dù yachin hơi cao xíu 😞)  
-Thoắt cái đã qua mấy ngày đông lạnh tê đến mùa xuân sakura rực rỡ sắc màu rồi mấy ngày hè oi ả, tụi mình đã chuyển đến đây sinh sống để tiện cho mình đi làm hơn.  
-Giờ thì trời đang chuyển sang thu.  
+vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh. (dù yachin hơi cao chút xíu 😞)  
+Thoắt cái đã qua mấy ngày đông lạnh tê tái, đến mùa xuân sakura rực rỡ sắc màu rồi mấy ngày hè oi ả, tụi mình đã chuyển đến đây sinh sống tiện cho mình đi làm hơn.  
+Giờ thì trời đất đang chuyển sang thu.  
 Nghe sensei mình bảo là, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
 Bây chừ thì ngoài trời đang mưa...  
 
