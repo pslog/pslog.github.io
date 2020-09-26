@@ -42,9 +42,5 @@ Dọc theo hai bên bờ sông không hiểu sao hai hàng cây sakura nó mọc
 Mọi người thường BBQ dưới mấy tán hoa, một khung cảnh đáng để trải nghiệm cho ai muốn ngắm sakura rơi rơi trong gió.  
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/5.JPG" alt="{{ page.title }}">
-Chuyển sang đầu mùa hè, đến lượt hoa ajisai cũng đua nhau khoe sắc.
-
-
-
-
+Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau tỏa sáng.
 
