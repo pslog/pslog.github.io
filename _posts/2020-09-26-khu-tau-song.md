@@ -10,8 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-
-À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống.
+À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống nha.
 
 Gần sát bên dòng sông Kashiogawa thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
 vợ chồng mình đang sống trong 1 căn hộ nhỏ nhỏ xinh xinh. (dù yachin hơi cao xíu 😞)  
