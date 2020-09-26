@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Một ngày mưa đầu tháng 8"
+title:  "日本語練習2"
 author: suutam
 categories: [ diary ]
 tags: []
@@ -11,6 +11,7 @@ hidden: false
 rating: 4
 ---
 
+Một ngày mưa đầu tháng 8  
 雨は雨で家にいても楽しいことはたくさんあります。
 皆さん、良い週末を。
 

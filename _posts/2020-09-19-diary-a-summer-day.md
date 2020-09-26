@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cuộc sống của mình trong những ngày cuối hè"
+title:  "日本語練習1"
 author: suutam
 categories: [ diary ]
 tags: []
@@ -11,6 +11,7 @@ hidden: false
 rating: 4.5
 ---
 
+Cuộc sống của mình trong những ngày cuối hè　　
 9月の始まりは雨、終わりは晴れ
 
 #### 日記
