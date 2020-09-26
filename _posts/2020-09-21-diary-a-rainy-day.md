@@ -57,6 +57,6 @@ haegreendalさんのビデオはいつもやさしくて落ち着く
 
 #### 言葉
 
-#### From Kira
+#### From Kiraさん
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/_cb6jwgPNPk" frameborder="0" allowfullscreen></iframe></p>

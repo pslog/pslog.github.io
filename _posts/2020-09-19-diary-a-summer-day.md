@@ -97,6 +97,6 @@ Cuộc sống của mình trong những ngày cuối hè
 妊娠　にんしん　Mang thai
 ```
 
-#### From Kira
+#### From Kiraさん
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/6Ve65cuz0FY" frameborder="0" allowfullscreen></iframe></p>
