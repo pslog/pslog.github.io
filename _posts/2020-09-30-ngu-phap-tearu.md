@@ -2,7 +2,7 @@
 layout: post
 title: 'Ngữ pháp ～てある'
 author: binchan
-categories: [ NihongoBunpo ]
+categories: [ Nihongo ]
 image: assets/images/12.jpg
 featured: true
 hidden: false
