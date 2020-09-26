@@ -47,4 +47,4 @@ Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau t�
 Chẳng ai biết trước được ngày mai sẽ ra sao nên lúc này, ngay lúc này đây, hãy cứ vui tươi sống rạng rỡ nhất những năm tháng tuổi trẻ của mình.  
 Cũng chưa biết là sẽ sống ở đây bao lâu, mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
 
-<i>SinhVV</i>
+<i>SinhVV - Yokohama, sắp mùa thu Reiwa năm thứ hai (mà năm 2020 đó, viết vậy cho ra kiểu Nhật 🙂)</i>
