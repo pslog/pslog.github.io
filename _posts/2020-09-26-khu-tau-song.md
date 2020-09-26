@@ -12,7 +12,7 @@ rating: 4.5
 ---
 À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống nha.
 
-Gần sát bên dòng sông Kashiogawa thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
+Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
 vợ chồng mình đang sống trong 1 căn hộ nhỏ nhỏ xinh xinh. (dù yachin hơi cao xíu 😞)  
 Thoắt cái đã qua mấy ngày đông lạnh tê đến mùa xuân sakura rực rỡ sắc màu rồi mấy ngày hè oi ả, tụi mình đã chuyển đến đây sinh sống để tiện cho mình đi làm hơn.  
 Giờ thì trời đang chuyển sang thu.  
