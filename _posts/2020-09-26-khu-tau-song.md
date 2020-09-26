@@ -11,7 +11,7 @@ hidden: true
 rating: 4.5
 ---
 
-À mà đó là của Karik, còn đây là viết về khu của mình đang sinh sống.
+À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống.
 
 Gần sát bên dòng sông Kashiogawa thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
 vợ chồng mình đang sống trong 1 căn hộ nhỏ nhỏ xinh xinh. (dù yachin hơi cao xíu 😞)  
@@ -20,12 +20,12 @@ Giờ thì trời đang chuyển sang thu.
 Nghe sensei mình bảo là, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
 Bây chừ thì ngoài trời đang mưa...  
 
-> Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây.  
+> Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thường thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây. :D  
 
 Mình khá ấn tượng với khu vực quanh chỗ mình sống.  
 Mặc dù hơi ít người Việt, hơi xa về phía vùng quê một chút, nhưng được cái gần chỗ mình làm, gần chỗ mình học. 
 (Nói "học" cho nó sang chứ 1 tuần mình đi 1 lần, 1 lần khoảng 1 tiếng rưỡi thôi à.)  
-Với những người thèm đồ "quê quê" như mình, chỗ có nhiều cửa hiệu rau tươi, rẻ, có cả gia vị Việt Nam như ở đây, mình tha hồ nấu mấy món hương vị quê nhà mà mình thích ăn.
+Với những người hay thèm đồ "quê quê" như mình, chỗ có nhiều cửa hàng rau tươi, rẻ, có cả gia vị Việt Nam như ở đây, mình tha hồ nấu mấy món hương vị quê nhà mà mình thích ăn.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/2.JPG" alt="{{ page.title }}">
 Trái cây thì vì chỗ này cũng còn thành phố, nên không trồng nhiều được, nhưng mấy siêu thị bán rất là nhiều loại mà tươi ngon vô cùng.  
@@ -42,4 +42,9 @@ Mọi người thường BBQ dưới mấy tán hoa, một khung cảnh đáng �
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/5.JPG" alt="{{ page.title }}">
 Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau tỏa sáng.
+
+> Sống hết mình cho ngày hôm nay.
+
+Chẳng ai biết trước được ngày mai sẽ ra sao nên lúc này, ngay lúc này đây, hãy cứ vui tươi sống rạng rỡ nhất những năm tháng tuổi trẻ của mình.  
+Cũng chưa biết là sẽ sống ở đây bao lâu, mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
 
