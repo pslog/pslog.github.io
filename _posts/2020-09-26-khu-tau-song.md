@@ -17,10 +17,10 @@ Gần sát bên dòng sông Kashiogawa thơ mộng, đầy ắp tôm cá (hồi 
 vợ chồng mình đang sống trong 1 căn hộ nhỏ nhỏ xinh xinh. (dù yachin hơi cao xíu 😞)  
 Thoắt cái đã qua mấy ngày đông lạnh tê đến mùa xuân sakura rực rỡ sắc màu rồi mấy ngày hè oi ả, tụi mình đã chuyển đến đây sinh sống để tiện cho mình đi làm hơn.  
 Giờ thì trời đang chuyển sang thu.  
-Nghe sensei mình bảo là,  
-Cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
+Nghe sensei mình bảo là, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
 Bây chừ thì ngoài trời đang mưa...  
-(Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là nội dung chính đây.)  
+
+> Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây.  
 
 Mình khá ấn tượng với khu vực quanh chỗ mình sống.  
 Mặc dù hơi ít người Việt, hơi xa về phía vùng quê một chút, nhưng được cái gần chỗ mình làm, gần chỗ mình học. 
