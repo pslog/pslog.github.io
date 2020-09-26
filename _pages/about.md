@@ -17,7 +17,7 @@ comments: true
 		</p>
 		
 		<p class="mb-5" style="margin-bottom: 1rem !important;">
-			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.png" alt="{{ page.title }}" />
+			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.jpg" alt="{{ page.title }}" />
 		</p>
 
 		<p>		
