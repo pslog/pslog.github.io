@@ -35,7 +35,7 @@ clorua, niacin, canxi pantothenat, vitamin E, vitamin B6, vitamin B1, vitamin A,
 4. Dạng sữa: Sữa bột
 5. Xuất xứ: Nhật Bản
 
-### Giá bán: 650.000 đồng (có kèm bill)
+### Giá bán: 620.000 đồng (có kèm bill)
 
 ### Cách pha:
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/akachan/sua-meiji-1.jpg" alt="{{ page.title }}">

@@ -6,8 +6,8 @@ categories: [ diary ]
 tags: []
 image: assets/images/11.jpg
 description: "9月の始まりは雨、終わりは晴れ"
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 ---
 
