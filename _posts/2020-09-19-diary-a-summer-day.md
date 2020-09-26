@@ -11,7 +11,7 @@ hidden: false
 rating: 4.5
 ---
 
-Cuộc sống của mình trong những ngày cuối hè　　
+Cuộc sống của mình trong những ngày cuối hè  
 9月の始まりは雨、終わりは晴れ
 
 #### 日記

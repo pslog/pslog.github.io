@@ -2,13 +2,13 @@
 layout: post
 title:  "Khu tau sống"
 author: sinhvv
-categories: [ diary ]
+categories: [ life ]
 tags: []
 image: assets/images/20200926/1.jpg
 description: "Viết về khu của mình đang sinh sống"
 featured: true
 hidden: true
-rating: 4
+rating: 4.5
 ---
 
 À mà đó là của Karik, còn đây là viết về khu của mình đang sinh sống.
