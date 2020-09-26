@@ -19,7 +19,7 @@ Giờ thì trời đang chuyển sang thu.
 Nghe sensei mình bảo là, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
 Bây chừ thì ngoài trời đang mưa...  
 
-> Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thường thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây. :D  
+> Đó là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thường thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây.🙂  
 
 Mình khá ấn tượng với khu vực quanh chỗ mình sống.  
 Mặc dù hơi ít người Việt, hơi xa về phía vùng quê một chút, nhưng được cái gần chỗ mình làm, gần chỗ mình học. 
