@@ -31,6 +31,10 @@ comments: true
 		</p>
 		<p>
 			<strong>Viết để được sống "nhiều" hơn.</strong>
+			<br/>
+			Viết là cách thể hiện tư duy, cảm xúc và chính kiến của mình bằng ngôn từ. 
+			<br/>
+			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
 		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
 	</div>
