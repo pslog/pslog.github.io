@@ -30,7 +30,7 @@ Với những người hay thèm đồ "quê quê" như mình, chỗ có nhiều
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/2.JPG" alt="{{ page.title }}">
 Trái cây thì vì chỗ này cũng còn thành phố, nên không trồng nhiều được, nhưng mấy siêu thị bán rất nhiều loại mà tươi ngon vô cùng.  
-Ngày nào vợ mình cũng đòi ăn đến âm hết cả tiền lương 😞 (Đùa thôi chứ cũng đủ tiền cho vợ ăn chớ.)
+Ngày nào vợ mình cũng đòi ăn đến âm hết cả tiền lương 😞 (Đùa thôi chứ cũng đủ tiền cho vợ ăn chớ, ăn cho đã trước, rồi tiết kiệm sau)
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/3.JPG" alt="{{ page.title }}">
 Tempura zaru soba, đây là món vợ chồng mình khá là hợp khẩu vị, hay ăn nhất mỗi khi ăn ngoài.  
