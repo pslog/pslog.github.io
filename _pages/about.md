@@ -35,6 +35,8 @@ comments: true
 			Viết là cách thể hiện tư duy, cảm xúc và chính kiến của mình bằng ngôn từ. 
 			<br/>
 			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
+			<br/>
+			Hi vọng mình sẽ trưởng thành hơn sau những bài viết này.
 		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
 	</div>
