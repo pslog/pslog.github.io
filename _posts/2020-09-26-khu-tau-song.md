@@ -13,12 +13,12 @@ rating: 4.5
 À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống nha.
 
 Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
-vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh. (dù yachin hơi cao chút xíu 😞) 
+vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh. (Mà yachin hơi cao chút xíu 😞) 
  
 Thoắt cái đã qua mấy ngày đông lạnh tê tái, đến mùa xuân sakura rực rỡ sắc màu rồi qua cả mùa hè oi ả, từ cái ngày tụi mình chuyển đến đây sinh sống tiện cho mình đi làm hơn.  
 Giờ thì đất trời đang chuyển sang thu.  
 
-Nghe sensei mình bảo là, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có khoảng 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên ổng buồn.  
+Nghe sensei mình bảo, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có khoảng 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên "ổng" buồn. Ở đây, mỗi một mùa "ổng" mặc một bộ đồ khác nhau rõ rệt lắm.  
 Bây giờ thì ngoài trời đang mưa...  
 
 > Trên là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thường thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây.🙂  
@@ -35,7 +35,7 @@ Ngày nào vợ mình cũng đòi ăn đến âm hết cả tiền lương 😞 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/3.JPG" alt="{{ page.title }}">
 Tempura zaru soba, đây là món vợ chồng mình khá là hợp khẩu vị, hay ăn nhất mỗi khi ăn ngoài.  
 Ngoài cái soba mà mình từng ăn ngon nhất là ở Hakone thì chắc đây xếp thứ hai mà được cái nữa là rẻ. 🙂
-Với mình thì chỉ hợp ăn soba, chứ ramen hay udon thì không hợp khẩu vị của mình lắm.
+Riêng mình thì chỉ thích ăn soba, chứ ramen hay udon thì không hợp khẩu vị của mình lắm.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/4.jpg" alt="{{ page.title }}">
 Cũng đếm được 2 mùa hoa bên này rồi.  
@@ -50,4 +50,4 @@ Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau t�
 Chẳng ai biết trước được ngày mai sẽ ra sao nên lúc này, ngay lúc này đây, hãy cứ vui tươi sống rạng rỡ nhất những năm tháng tuổi trẻ của mình.  
 Cũng chưa biết là sẽ sống ở đây bao lâu, mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
 
-<i>SinhVV - Yokohama, sắp mùa thu Reiwa năm thứ hai (mà năm 2020 đó, viết vậy cho ra kiểu Nhật 🙂)</i>
+<i>SinhVV - Yokohama, sắp mùa thu Reiwa năm thứ hai (à năm 2020 đó, viết vậy cho ra kiểu Nhật 🙂)</i>
