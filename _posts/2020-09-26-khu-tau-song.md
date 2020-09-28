@@ -5,12 +5,12 @@ author: sinhvv
 categories: [ life ]
 tags: []
 image: assets/images/20200926/1.jpg
-description: "Viết về khu của mình đang sinh sống"
+description: "À mà đó là khu của Karik, còn đây là viết về khu của mình đang sống nha."
 featured: true
 hidden: true
 rating: 4.5
 ---
-À mà đó là khu của Karik, còn đây là viết về khu của mình đang sinh sống nha.
+À mà đó là khu của Karik, còn đây là viết về khu của mình đang sống nha.
 
 Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
 vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh. (Mà yachin hơi cao chút xíu 😞) 
