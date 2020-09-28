@@ -15,8 +15,9 @@ rating: 4.5
 Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá (hồi xưa hay chép tập làm văn mẫu nên quen quen), 
 vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh. (Mà yachin hơi cao chút xíu 😞) 
  
-Thoắt cái đã qua mấy ngày đông lạnh tê tái, đến mùa xuân sakura rực rỡ sắc màu rồi qua cả mùa hè oi ả, từ cái ngày tụi mình chuyển đến đây sinh sống tiện cho mình đi làm hơn.  
-Giờ thì đất trời đang chuyển sang thu.  
+Thời gian đúng là chẳng chờ đợi một ai.
+Mới đó cái ngày tụi mình chuyển đến đây là một ngày cuối đông.
+Thoắt cái mùa xuân, rồi hè cũng đi qua, giờ thì đất trời đang chuyển sang thu rồi.  
 
 Nghe sensei mình bảo, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có khoảng 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên "ổng" buồn. Ở đây, mỗi một mùa "ổng" mặc một bộ đồ khác nhau rõ rệt lắm.  
 Bây giờ thì ngoài trời đang mưa...  
