@@ -19,7 +19,7 @@ Mới ngày nào tụi mình chuyển đến đây vào một ngày cuối đôn
 Thoắt cái rồi xuân, rồi tới hè cũng lần lượt đi qua, giờ thì đất trời bắt đầu chớm thu.  
 
 Nghe sensei mình bảo, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có khoảng 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên "ổng" buồn.  
-Bây giờ thì ngoài trời đang mưa...  
+Lúc này, ngoài trời đang mưa...  
 
 > Trên là phần giới thiệu thời tiết. Theo như format viết thư của người Nhật mình học, thường thì đầu tiên sẽ là 季節のあいさつ. Tiếp theo chắc là tới nội dung chính đây.🙂  
 
@@ -34,7 +34,7 @@ Ngày nào vợ mình cũng đòi ăn đến âm hết cả tiền lương. 😞
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/3.JPG" alt="{{ page.title }}">
 Tempura zaru soba, đây là món vợ chồng mình khá là hợp khẩu vị, hay ăn nhất mỗi khi ăn ngoài.  
 Ngoài cái soba mà mình từng ăn ngon nhất là ở Hakone thì chắc đây xếp thứ hai mà được cái nữa là rẻ. 🙂
-Riêng mình thì chỉ thích ăn soba, chứ ramen hay udon thì không hợp khẩu vị của mình lắm.
+Riêng mình thì chỉ thích ăn soba, chứ ramen hay udon không hợp khẩu vị của mình lắm.
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/4.jpg" alt="{{ page.title }}">
 Cũng đếm được 2 mùa hoa bên này rồi.  
