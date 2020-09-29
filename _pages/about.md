@@ -9,7 +9,7 @@ comments: true
 	<div class="col-md-8 pr-5">
 
 		<p>
-			Đây là blog viết về những trải nghiệm và hiểu biết của vợ chồng tôi.
+			Đây là blog viết về những trải nghiệm và hiểu biết của vợ chồng mình.
 			<br/>
 			Hai con người trẻ, đang ở độ tuổi phải trưởng thành nhưng vẫn đang loay hoay cố gắng hiểu hơn về bản thân mình, và hướng đến những điều hoàn hảo, hoàn thiện bản thân từng chút một.
 			<br/>
@@ -36,7 +36,7 @@ comments: true
 			<br/>
 			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
 			<br/>
-			Hi vọng mình sẽ trưởng thành hơn sau những bài viết này.
+			Hi vọng mình sẽ trưởng thành hơn một chút gì đó sau những bài viết này.
 		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
 	</div>
@@ -48,7 +48,7 @@ comments: true
 
 			<p>Thank you for your support! Your donation helps me to maintain and improve PSlog.</p>
 
-			<a href="#" onClick="alert('Cảm ơn bạn đã nghĩ đến điều này!!!');return false;" class="btn btn-danger">Buy me a coffee</a> 
+			<a href="#" onClick="alert('Không cần đâu, cảm ơn bạn đã nghĩ đến điều này! ^-^');return false;" class="btn btn-danger">Buy me a coffee</a> 
 
 		</div>
 	</div>

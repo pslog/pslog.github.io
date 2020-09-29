@@ -15,8 +15,8 @@ rating: 4.5
 Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá, vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh (hồi xưa hay chép tập làm văn mẫu nên quen quen).  
  
 Thời gian đúng là chẳng chờ đợi một ai.  
-Mới ngày nào tụi mình chuyển đến đây là một ngày cuối đông.
-Thoắt cái mùa xuân, rồi hè cũng lần lượt đi qua, giờ thì đất trời bắt đầu chớm thu rồi.  
+Mới ngày nào tụi mình chuyển đến đây vào một ngày cuối đông.
+Thoắt cái rồi xuân, rồi tới hè cũng lần lượt đi qua, giờ thì đất trời bắt đầu chớm thu.  
 
 Nghe sensei mình bảo, cứ mỗi lần chuyển mùa từ xuân sang hè, rồi hè sang thu thì chắc có khoảng 1 tuần đến 10 ngày trời sẽ mưa, hình như là do tiếc nuối điều gì đó nên "ổng" buồn.  
 Bây giờ thì ngoài trời đang mưa...  
