@@ -65,7 +65,7 @@ comments: true
       </div>
       <div class="modal-body">
         <span>Cảm ơn bạn đã nghĩ đến điều này!
-		<br/>Nhưng mà...không cần đâu. (^-^) </span>
+		<br/>Nhưng mà... không cần đâu. (^~^) </span>
       </div>      
     </div>
   </div>
