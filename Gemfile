@@ -17,4 +17,5 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem 'liquid_reading_time', '~> 1.1', '>= 1.1.3'
 end
