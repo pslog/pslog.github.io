@@ -58,17 +58,15 @@ comments: true
   <div class="modal-dialog shadow-lg">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Buy me a coffee!</h5>
+        <span class="modal-title" id="exampleModalLabel"><strong>Buy me a coffee!</strong></span>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <span>Cảm ơn bạn đã nghĩ đến điều này, nhưng mà...không cần đâu! (^-^) </span>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button>
-      </div>
+        <span>Cảm ơn bạn đã nghĩ đến điều này!
+		<br/>Nhưng mà...không cần đâu. (^-^) </span>
+      </div>      
     </div>
   </div>
 </div>
