@@ -5,6 +5,8 @@ author: binchan
 categories: [ Akachan ]
 image: assets/images/akachan/sua-meiji.jpg
 rating: 5
+featured: false
+hidden: true
 ---
 
 ### Mô tả sản phẩm:
