@@ -48,8 +48,27 @@ comments: true
 
 			<p>Thank you for your support! Your donation helps me to maintain and improve PSlog.</p>
 
-			<a href="#" onClick="alert('Không cần đâu, cảm ơn bạn đã nghĩ đến điều này! ^-^');return false;" class="btn btn-danger">Buy me a coffee</a> 
-
+			<button data-toggle="modal" data-target="#buymeacoffee" class="btn btn-danger">Buy me a coffee</button> 
 		</div>
 	</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="buymeacoffee" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog shadow-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Buy me a coffee!</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <span>Cảm ơn bạn đã nghĩ đến điều này, nhưng mà...không cần đâu! (^-^) </span>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
 </div>
