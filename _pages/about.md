@@ -16,7 +16,7 @@ comments: true
 			Và đang học cách để "Yêu từ những điều không hoàn hảo".
 		</p>
 		
-		<p class="mb-5" style="margin-bottom: 1rem !important;">
+		<p class="mb-4">
 			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.jpg" alt="{{ page.title }}" />
 		</p>
 
