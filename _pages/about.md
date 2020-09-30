@@ -20,7 +20,10 @@ comments: true
 			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.jpg" alt="{{ page.title }}" />
 		</p>
 
-> Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.
+		<blockquote>
+		  <p>Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.</p>
+		</blockquote>
+
 		<p>
 			Chả có ai thực sự cán đích, khi không hiểu cái gì cần thiết cho hạnh phúc của mình... 
 			<br/>
@@ -28,7 +31,11 @@ comments: true
 			<br/>
 			Hạnh phúc ở gần ngay bạn, ngay trong chính cuộc sống này!
 		</p>
-> Viết để được sống "nhiều" hơn.
+		
+		<blockquote>
+		  <p>Viết để được sống "nhiều" hơn.</p>
+		</blockquote>
+		
 		<p>		
 			Viết là cách thể hiện tư duy, cảm xúc và chính kiến của mình bằng ngôn từ. 
 			<br/>
