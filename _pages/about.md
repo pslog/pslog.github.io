@@ -20,18 +20,16 @@ comments: true
 			<img class="shadow-lg" style="display: block; margin: auto;" src="{{site.baseurl}}/assets/images/me.jpg" alt="{{ page.title }}" />
 		</p>
 
-		<p>		
-			<strong>Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.</strong>
-			<br/>
+> Hạnh phúc không phải là đích đến, mà là một cuộc hành trình.
+		<p>
 			Chả có ai thực sự cán đích, khi không hiểu cái gì cần thiết cho hạnh phúc của mình... 
 			<br/>
 			Vì thế, hãy cứ sống, hãy cứ yêu, hãy cứ bộc lộ những yêu thương khi còn có thể ! 
 			<br/>
 			Hạnh phúc ở gần ngay bạn, ngay trong chính cuộc sống này!
 		</p>
-		<p>
-			<strong>Viết để được sống "nhiều" hơn.</strong>
-			<br/>
+> Viết để được sống "nhiều" hơn.
+		<p>		
 			Viết là cách thể hiện tư duy, cảm xúc và chính kiến của mình bằng ngôn từ. 
 			<br/>
 			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
