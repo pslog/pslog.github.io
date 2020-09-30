@@ -52,16 +52,16 @@ post_class: post-template
             {% endif %}
             <!-- End Adsense -->
 
-            <div class="rating mb-3 align-items-center">
+            <div class="rating align-items-center">
                 <!-- Rating -->
                 {% if page.rating %}
-                <div class="rating mb-3 d-flex align-items-center" style="float: left">
+                <div class="rating d-flex align-items-center" style="float: left">
                     <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
                 </div>
                 {% endif %}
 
                 <!-- Post Date -->
-                <div style="float: right">
+                <div class="mb-3" style="float: right">
                     <small>
                         <span class="post-date">
                             <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
@@ -76,9 +76,7 @@ post_class: post-template
                     </small>
                 </div>
             </div>
-
-			
-			
+				
             <!-- Post Featured Image -->
             {% if page.image %}
 
