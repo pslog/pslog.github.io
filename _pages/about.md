@@ -41,7 +41,7 @@ comments: true
 			<br/>
 			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
 			<br/>
-			Hi vọng mình sẽ trưởng thành hơn và hiểu hơn về bản thân một chút sau những bài viết này.
+			Hi vọng mình sẽ trưởng thành hơn và hiểu hơn một chút về bản thân sau từng bài viết.
 			<br/>
 			Và đấy cũng chính là lý do để tụi mình bắt đầu tạo PSlog này.
 		</p>
