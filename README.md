@@ -24,3 +24,5 @@ Thank you!
 
 ### References
 https://devhints.io/jekyll
+
+[![HitCount](http://hits.dwyl.com/pslog/psloggithubio.svg)](http://hits.dwyl.com/pslog/psloggithubio)
