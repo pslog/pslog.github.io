@@ -36,7 +36,9 @@ comments: true
 			<br/>
 			Viết giúp bộc lộ bản thân, giải toả cảm xúc và đào sâu hơn vào phần nội tâm của mình. 
 			<br/>
-			Hi vọng mình sẽ trưởng thành hơn một chút gì đó sau những bài viết này.
+			Hi vọng mình sẽ trưởng thành hơn và hiểu hơn về bản thân một chút sau những bài viết này.
+			<br/>
+			Và đấy cũng chính là lý do để tụi mình bắt đầu tạo PSlog này.
 		</p>
 		<p>Chúc bạn một ngày tốt lành!</p>
 	</div>
@@ -65,7 +67,7 @@ comments: true
       </div>
       <div class="modal-body">
         <span>Cảm ơn bạn đã nghĩ đến điều này!
-		<br/>Nhưng mà... không cần đâu. (^~^) </span>
+		<br/>Nhưng mà ... không cần đâu. (^~^) </span>
       </div>      
     </div>
   </div>
