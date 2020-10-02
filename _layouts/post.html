@@ -67,7 +67,7 @@ post_class: post-template
                         <span class="post-date">
                             <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                             ・
-                            {% assign words = content | number_of_words %}
+                            {% assign words = content | number_of_words: "auto" %}
                               {% if words < 360 %}
                                 1 min read
                               {% else %}
