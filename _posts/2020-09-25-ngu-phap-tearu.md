@@ -4,8 +4,8 @@ title: 'Ngữ pháp ～てある'
 author: binchan
 categories: [ Nihongo ]
 image: assets/images/12.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 ---
 Mở đầu chuỗi series về ngữ pháp tiếng Nhật sẽ là 「～てある」
