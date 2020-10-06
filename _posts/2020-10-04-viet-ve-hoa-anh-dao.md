@@ -51,7 +51,7 @@ Những khoảnh khắc đó chắc ai cũng sẽ si mê.<br/>
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201004/6.jpg" alt="{{ page.title }}">
 
 Hoa anh đào đẹp đẽ đến thế nhưng chỉ cần một cơn gió thoảng qua là cánh hoa đã nhẹ nhàng lìa cành.<br/>
-Hoa thoắt nở thoắt tàn thường chỉ trong khoảng một tuần nên cứ mùa hoa đi qua, luôn để lại điều gì đó tiếc nuối.<br/>
+Hoa thoắt nở thoắt tàn thường chỉ trong khoảng một tuần nên cứ mỗi mùa hoa đi qua, luôn để lại điều gì đó tiếc nuối.<br/>
 Hoa tàn khi cánh hoa còn đương sắc nhất, chẳng khác nào tuổi thanh xuân mong manh, ngắn ngủi tựa phù du của cuộc đời.<br/>
 Bản chất tạm thời của tuổi trẻ, của cuộc sống. 
 Những điều tốt đẹp sẽ không xuất hiện quá lâu cũng như những bông hoa nhỏ xinh kia chỉ xuất hiện một thời gian rất ngắn rồi biến mất.
