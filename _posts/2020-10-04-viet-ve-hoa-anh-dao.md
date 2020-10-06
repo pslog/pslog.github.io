@@ -10,10 +10,8 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-Nếu ở quê mình, mọi người vẫn thường ngân nga câu hát:
-<blockquote>Nếu là hoa, tôi sẽ là một đóa hướng dương.</blockquote>
-Thì ở xứ sở mặt trời mọc, người ta lại có một câu nói bất hủ:
-<blockquote>Nếu là hoa, xin làm hoa anh đào.</blockquote>
+Nếu ở quê mình, mọi người vẫn thường ngân nga câu hát: "Nếu là hoa, tôi sẽ là một đóa hướng dương".<br/>
+Thì ở xứ sở mặt trời mọc, người ta lại có một câu nói bất hủ: "Nếu là hoa, xin làm hoa anh đào".<br/>
 Đó là tầm quan trọng của hoa anh đào trong đời sống tinh thần của những con người ở xứ sở này.<br/>
 Còn đây là những cảm nhận của riêng mình.<br/>
 
