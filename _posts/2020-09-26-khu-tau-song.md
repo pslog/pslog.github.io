@@ -44,10 +44,11 @@ Mọi người thường BBQ dưới mấy tán hoa, một khung cảnh đáng �
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20200926/5.JPG" alt="{{ page.title }}">
 Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau tỏa sáng.
 
-> Sống hết mình cho ngày hôm nay.
+> Khi ta ở, chỉ là nơi đất ở. Khi ta đi, đất đã hoá tâm hồn!
 
-Chẳng ai biết trước được ngày mai sẽ ra sao nên lúc này, ngay lúc này đây, hãy cứ vui tươi sống rạng rỡ nhất những năm tháng tuổi trẻ của mình.  
 Cũng chưa biết là sẽ sống ở đây bao lâu, mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
+<br/>
+Sẽ mãi là những miền ký ức mà mình sẽ không bao giờ quên được.
 
 <i>SinhVV - Yokohama, chớm thu Reiwa năm thứ hai.
 <br/> 
