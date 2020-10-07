@@ -46,9 +46,9 @@ Chuyển sang đầu mùa hè, là đến lượt hoa ajisai lại đua nhau t�
 
 > Khi ta ở, chỉ là nơi đất ở. Khi ta đi, đất đã hoá tâm hồn!
 
-Cũng chưa biết là sẽ sống ở đây bao lâu, mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
+Cũng chưa biết là sẽ sống ở đây đến bao giờ, nhưng mình sẽ vui trong những tháng ngày đi đi về về, gắn bó với vùng đất con người xung quanh đây.
 <br/>
-Sẽ mãi là những miền ký ức mà mình sẽ không bao giờ quên được.
+Sẽ mãi là những miền ký ức đẹp mà mình sẽ không bao giờ quên được.
 
 <i>SinhVV - Yokohama, chớm thu Reiwa năm thứ hai.
 <br/> 
