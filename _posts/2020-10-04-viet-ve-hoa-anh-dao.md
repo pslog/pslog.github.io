@@ -5,7 +5,7 @@ author: sinhvv
 categories: [ life ]
 tags: []
 image: assets/images/20201004/1.jpg
-description: "Nếu là hoa, xin làm hoa anh đào..."
+description: "花は桜木人は武士 Nếu là hoa, xin làm hoa anh đào..."
 featured: true
 hidden: true
 rating: 4.5
