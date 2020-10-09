@@ -11,7 +11,7 @@ hidden: true
 rating: 4.5
 ---
 Nếu ở quê mình, mọi người vẫn thường ngân nga câu hát: "Nếu là hoa, tôi sẽ là một đóa hướng dương".<br/>
-Thì ở xứ sở mặt trời mọc, người ta lại có một câu nói bất hủ: "Nếu là hoa, xin làm hoa anh đào".<br/>
+Thì ở xứ sở mặt trời mọc, người ta có một câu nói bất hủ: "Nếu là hoa, xin làm hoa anh đào".<br/>
 Đó là tầm quan trọng của hoa anh đào trong đời sống tinh thần của những con người ở xứ sở này.<br/>
 Còn đây là những cảm nhận của riêng mình.<br/>
 
@@ -26,8 +26,8 @@ Nắng lên, xuân về, hoa anh đào nở, khởi đầu một năm mới vớ
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201004/3.jpg" alt="{{ page.title }}">
 
-Những cánh hoa mềm mại, dịu dàng, không phải là "màu hồng" rực rỡ mà là "màu anh đào" nhẹ nhàng, thanh tao. <br/>
-Theo cảm nhận của riêng mình, vẻ đẹp của anh đào cũng tựa hoa mai ở quê mình vậy.<br/>
+Những cánh hoa mềm mại, dịu dàng, không phải là màu hồng rực rỡ mà là màu anh đào nhẹ nhàng, thanh tao. <br/>
+Vẻ đẹp của anh đào cũng tựa như hoa mai ở quê mình vậy, vẻ khiêm nhường, chẳng ồn ào, nhưng làm ai cũng phải xao xuyến.<br/>
 
 > Một bông hoa nhỏ chẳng làm nên mùa xuân
 
@@ -43,8 +43,9 @@ Và con người cũng vậy, vẻ đẹp và sức mạnh dân tộc nằm ở 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201004/5.jpg" alt="{{ page.title }}">
 
 Lúc mới sang đây, mình cứ bị hấp dẫn với những lễ hội như thế này.<br/>
-Hoa anh đào nở cũng là lúc người người nô nức, chọn một ngày hoa nở đẹp nhất để cùng bạn bè, người thân, gia đình đi dã ngoại, ngắm hoa. Ngồi dưới những tán anh đào nở bung, vừa uống rượu, nhấm nháp đồ ăn BBQ, vừa vui vẻ chuyện trò, tạm gác đi những bộn bề, lo toan thường ngày.<br/>
-Những khoảnh khắc đó chắc ai cũng sẽ si mê.<br/>
+Hoa anh đào nở cũng là lúc người người nô nức, chờ một ngày cuối tuần hoa nở đẹp nhất để cùng bạn bè, người thân, gia đình đi dã ngoại, ngắm hoa. 
+Ngồi dưới những tán hoa nở bung, vừa uống rượu, nhấm nháp đồ ăn BBQ, vừa vui vẻ chuyện trò, tạm gác đi những bộn bề, lo toan thường ngày.<br/>
+Những khoảnh khắc đó chắc ai cũng sẽ say mê.<br/>
 
 > Thanh xuân
 
@@ -59,4 +60,4 @@ Những điều tốt đẹp sẽ không xuất hiện quá lâu cũng như nh�
 Vậy nên, hãy biết trân trọng mọi thứ tốt đẹp đến với mình trước khi nó biến mất nhé.
 <br/>
 
-<i>SinhVV - Yokohama, một chiều cuối tuần.</i>
+<i>SinhVV, một chiều cuối tuần.</i>
