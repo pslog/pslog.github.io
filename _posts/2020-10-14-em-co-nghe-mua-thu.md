@@ -26,7 +26,7 @@ Mùa thu về với cái se lạnh của những cơn gió lạ, của nền tr�
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/3.jpg" alt="{{ page.title }}">
 
 Mùa lá cây bắt đầu chuyển màu với những khung cảnh tuyệt đẹp. <br/>
-Chỉ cần dạo quanh một con đường nhỏ, cũng sẽ dễ bắt gặp những khoảnh khắc lá vàng, lá đỏ rơi rơi trong gió, một hình ảnh đặc sắc nhất của mùa thu ở xứ sở này.
+Chỉ cần dạo quanh một con đường nhỏ, cũng sẽ dễ bắt gặp những khoảnh khắc lá vàng, lá đỏ rơi rơi trong gió, một hình ảnh đặc sắc nhất của mùa thu ở xứ sở này.<br/>
 Thu mang đầy vẻ quyến rũ, dịu dàng mà xao xuyến.
 Thu luôn đẹp một cách nhẹ nhàng như thế.
 Nên lòng người lúc nào cũng thoáng đượm buồn khi ngắm nhìn thu sang.
