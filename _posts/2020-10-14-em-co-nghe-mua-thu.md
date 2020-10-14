@@ -6,8 +6,8 @@ categories: [ life ]
 tags: []
 image: assets/images/20201014/1.jpg
 description: "Tiếng lá cây xào xạc dưới chân như thì thầm cùng nhau. Hình như thu đã về!"
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 4.5
 ---
 Buổi sáng thức dậy, vươn vai tận hưởng cái cảm giác se se lạnh.<br/>
@@ -48,7 +48,7 @@ Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.
 > Cuộc đời hãy như chiếc lá, việc của lá là phải xanh.
 
 Ta chỉ cần sống bình dị và an yên, vững tin và miệt mài với chính bản thân mình.<br/>
-Có thể là một chiếc lá bé nhỏ, nhưng chiếc lá phải "xanh", thì cái cây kia mới rợp bóng mát. 
+Có thể là một chiếc lá bé nhỏ, nhưng chiếc lá phải xanh, để cái cây to kia mới rợp bóng mát. 
 Chúng ta phải sống hết mình, thì mới không để thời gian trôi qua lãng phí. <br/>
 Để tuổi thanh xuân rực rỡ, tươi đẹp qua đi. <br/>
 Chỉ có như vậy, ta mới có thể sống một cuộc sống thật ý nghĩa và tươi đẹp.
