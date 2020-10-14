@@ -26,7 +26,7 @@ Mùa thu về với cái se lạnh của những cơn gió lạ, của nền tr�
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/3.jpg" alt="{{ page.title }}">
 
 Mùa lá cây bắt đầu chuyển màu với những khung cảnh tuyệt đẹp. <br/>
-Chỉ cần dạo quanh một con đường nhỏ, cũng sẽ dễ bắt gặp những khoảnh khắc lá vàng rơi rơi trong gió, một hình ảnh đặc sắc nhất của mùa thu ở xứ sở này.
+Chỉ cần dạo quanh một con đường nhỏ, cũng sẽ dễ bắt gặp những khoảnh khắc lá vàng, lá đỏ rơi rơi trong gió, một hình ảnh đặc sắc nhất của mùa thu ở xứ sở này.
 Thu mang đầy vẻ quyến rũ, dịu dàng mà xao xuyến.
 Thu luôn đẹp một cách nhẹ nhàng như thế.
 Nên lòng người lúc nào cũng thoáng đượm buồn khi ngắm nhìn thu sang.
@@ -47,8 +47,8 @@ Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.
 
 > Cuộc đời hãy như chiếc lá, việc của lá là phải xanh.
 
-Ta chỉ cần sống bình dị và an yên, vững tin và miệt mài với chính bản thân mình.<br/>
-Có thể là một chiếc lá bé nhỏ, nhưng chiếc lá phải xanh, để cái cây to kia mới rợp bóng mát. 
+Ta chỉ cần sống bình dị và an yên, vững tin với chính bản thân mình.<br/>
+Có thể là một chiếc lá bé nhỏ, nhưng chiếc lá phải xanh, để cái cây to kia mới rợp bóng mát. <br/>
 Chúng ta phải sống hết mình, thì mới không để thời gian trôi qua lãng phí.
 Để tuổi thanh xuân rực rỡ, tươi đẹp qua đi. <br/>
 Chỉ có như vậy, ta mới có thể sống một cuộc sống thật ý nghĩa và tươi đẹp.
