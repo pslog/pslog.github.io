@@ -27,30 +27,25 @@ Mùa thu về với cái se lạnh của những cơn gió lạ, của nền tr�
 
 Mùa lá cây bắt đầu chuyển màu với những khung cảnh tuyệt đẹp. <br/>
 Chỉ cần dạo quanh một con đường nhỏ, cũng sẽ dễ bắt gặp những khoảnh khắc lá vàng, lá đỏ rơi rơi trong gió, một hình ảnh đặc sắc nhất của mùa thu ở xứ sở này.<br/>
+
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/4.jpg" alt="{{ page.title }}">
+
 Thu mang đầy vẻ quyến rũ, dịu dàng mà xao xuyến.
 Thu luôn đẹp một cách nhẹ nhàng như thế.
 Nên lòng người lúc nào cũng thoáng đượm buồn khi ngắm nhìn thu sang.
 
 > Nhìn lá vàng rơi, nghĩ về cuộc đời
 
-<img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/4.jpg" alt="{{ page.title }}">
+<img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/5.jpg" alt="{{ page.title }}">
 
 Nhìn những chiếc lá rơi không khỏi làm người ta chạnh lòng.
 Rơi xuống, từng chiếc lá rơi như kết thúc đời lá. 
 Nhưng thay vào đó là vô vàn chồi non mới sinh. 
 Sự sống mới lại bắt đầu. 
-Ngẫm ra thì thấy cái quy luật ấy sao mà chua xót và lạnh lùng đến vậy.<br/>
+Ngẫm ra thì thấy cái quy luật ấy sao mà chua xót và lạnh lùng.<br/>
 Nhưng sự khởi đầu luôn bắt đầu từ kết thúc. 
-Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.
-
-<img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/5.jpg" alt="{{ page.title }}">
-
-> Cuộc đời hãy như chiếc lá, việc của lá là phải xanh.
-
-Ta chỉ cần sống bình dị và an yên, vững tin với chính bản thân mình.<br/>
-Có thể là một chiếc lá bé nhỏ, nhưng chiếc lá phải xanh, để cái cây to kia mới rợp bóng mát. <br/>
-Chúng ta phải sống hết mình, thì mới không để thời gian trôi qua lãng phí.
-Để tuổi thanh xuân rực rỡ, tươi đẹp qua đi. <br/>
-Chỉ có như vậy, ta mới có thể sống một cuộc sống thật ý nghĩa và tươi đẹp.
+Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.<br/>
+Chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí.<br/>
+Chỉ có như vậy, ta mới có thể sống một cuộc sống thật ý nghĩa hơn.
 
 <i>SinhVV, một chiều thu.</i>
