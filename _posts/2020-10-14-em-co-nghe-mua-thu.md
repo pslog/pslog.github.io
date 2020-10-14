@@ -39,7 +39,7 @@ Nhìn những chiếc lá rơi không khỏi làm người ta chạnh lòng.
 Rơi xuống, từng chiếc lá rơi như kết thúc đời lá. 
 Nhưng thay vào đó là vô vàn chồi non mới sinh. 
 Sự sống mới lại bắt đầu. 
-Ngẫm ra thì thấy cái quy luật ấy sao mà chua xót và lạnh lùng đến vậy! 
+Ngẫm ra thì thấy cái quy luật ấy sao mà chua xót và lạnh lùng đến vậy.<br/>
 Nhưng sự khởi đầu luôn bắt đầu từ kết thúc. 
 Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.
 
