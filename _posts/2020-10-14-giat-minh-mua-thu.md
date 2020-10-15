@@ -39,10 +39,10 @@ Thu luôn đẹp một cách nhẹ nhàng như thế.
 
 Nhìn những chiếc lá vàng nghiêng nghiêng rơi mà lòng chợt thoáng bâng khuâng.<br/>
 Chiếc lá cũng như đời người vậy.<br/>
-Lá xanh rồi sẽ đến lúc lá rụng.<br/>
+Lá xanh rồi đến lúc lá rụng.<br/>
 Thu đến rồi thu đi, không một ai sắp đặt. <br/>
 Cuộc sống từ ngàn đời nay vẫn thế.<br/>
 Vòng luân hồi sinh tử bao trùm cả đất trời, muôn đời vạn kiếp, chẳng của riêng ai cũng chẳng loại trừ một ai.<br/>
-Vì thế, chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí, để một mai trở về với cát bụi mà không phải tiếc một kiếp người...<br/>
+Vì thế, chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí, để một mai trở về với cát bụi mà không phải tiếc một kiếp con người...<br/>
 
 <i>SinhVV, một chiều thu.</i>
