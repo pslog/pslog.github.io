@@ -5,7 +5,7 @@ author: sinhvv
 categories: [ life ]
 tags: []
 image: assets/images/20201014/1.jpg
-description: "Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau. Giật mình ngẩn ngơ, thu về rồi sao?!!!"
+description: "Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau. Giật mình ngẩn ngơ, thu đã về?!!!"
 featured: false
 hidden: false
 rating: 4.5
@@ -14,7 +14,7 @@ Buổi sáng thức dậy, vươn vai tận hưởng cái cảm giác se se lạ
 Một ngày mới đang bắt đầu với nhịp sống hối hả của những con người ở nơi đây.<br/>
 Ánh nắng chói chang của ngày hè đã khép lại, nhường chỗ cho không khí mát mẻ của đất trời.
 Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau.<br/>
-Giật mình ngẩn ngơ, thu về rồi sao?!!!
+Giật mình ngẩn ngơ, thu đã về?!!!
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/2.jpg" alt="{{ page.title }}">
 
@@ -38,10 +38,11 @@ Thu luôn đẹp một cách nhẹ nhàng như thế.
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/5.jpg" alt="{{ page.title }}">
 
 Nhìn những chiếc lá vàng nghiêng nghiêng rơi mà lòng chợt thoáng bâng khuâng.<br/>
-Ngẫm lại mới thấu cái quy luật của tự nhiên.<br/>
-Thu đến rồi đi, không một ai sắp đặt.<br/>
-Lá xanh rồi đến lúc sẽ rụng.<br/>
+Chiếc lá cũng như đời người vậy.<br/>
+Lá xanh rồi sẽ đến lúc lá rụng.<br/>
+Thu đến rồi thu đi, không một ai sắp đặt. <br/>
 Cuộc sống từ ngàn đời nay vẫn thế.<br/>
-Chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí, để không phải tiếc một kiếp người...<br/>
+Vòng luân hồi sinh tử bao trùm cả đất trời, muôn đời muôn kiếp, chẳng của riêng ai cũng chẳng loại trừ một ai.<br/>
+Vì thế, chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí, để khi về với cát bụi mà không phải tiếc một kiếp người...<br/>
 
 <i>SinhVV, một chiều thu.</i>
