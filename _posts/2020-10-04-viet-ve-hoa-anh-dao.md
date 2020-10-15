@@ -27,7 +27,8 @@ Nắng lên, xuân về, hoa anh đào nở, khởi đầu một năm mới vớ
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201004/3.jpg" alt="{{ page.title }}">
 
 Những cánh hoa mềm mại, dịu dàng, không phải là màu hồng rực rỡ mà là màu anh đào nhẹ nhàng, thanh tao. <br/>
-Vẻ đẹp của anh đào cũng tựa như hoa mai ở quê mình vậy, vẻ khiêm nhường, chẳng ồn ào, nhưng làm ai cũng phải xao xuyến.<br/>
+Vẻ đẹp của anh đào cũng tựa như hoa mai ở quê mình vậy, như một nàng thiếu nữ đang độ xuân thì.
+Khiêm nhường, chẳng ồn ào, nhưng làm ai cũng phải xao xuyến.<br/>
 
 > Một bông hoa nhỏ chẳng làm nên mùa xuân
 
