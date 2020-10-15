@@ -39,11 +39,10 @@ Nên lòng người lúc nào cũng thoáng đượm buồn khi ngắm nhìn thu
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/5.jpg" alt="{{ page.title }}">
 
 Nhìn những chiếc lá rơi không khỏi làm người ta chạnh lòng.<br/>
-Nhưng ngẫm lại thì mới rõ cái quy luật của tự nhiên.
+Nhưng ngẫm lại thì mới thấu cái quy luật của tự nhiên.<br/>
 Thu đến rồi đi, không một ai sắp đặt.
 Lá xanh rồi đến lúc sẽ rụng.
-Nó là một phần trong sự biểu hiện tuyệt vời của đất trời, thiếu đi thì không được, dù nó đang là chồi non hay là chiếc lá khô đã rụng.<br/>
-
+Đó là một phần trong sự biểu hiện tuyệt vời của đất trời, thiếu đi thì không được, cho dù nó đang là chồi non hay là chiếc lá khô đã rụng.<br/>
 Cuộc sống từ ngàn đời nay vẫn diễn ra như thế.<br/>
 Chúng ta hãy sống hết mình để thời gian trôi qua không hề lãng phí, để không phải tiếc một kiếp người...<br/>
 
