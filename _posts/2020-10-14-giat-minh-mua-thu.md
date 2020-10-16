@@ -10,7 +10,7 @@ featured: false
 hidden: false
 rating: 4.5
 ---
-Buổi sáng thức dậy, vươn vai tận hưởng cái cảm giác se se lạnh.
+Buổi sáng thức dậy, vươn vai tận hưởng cái cảm giác se se lạnh.<br/>
 Một ngày mới đang bắt đầu với nhịp sống hối hả của những con người ở nơi đây.<br/>
 Ánh nắng chói chang của ngày hè đã khép lại, nhường chỗ cho không khí mát mẻ của đất trời.
 Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau.<br/>
