@@ -5,7 +5,7 @@ author: sinhvv
 categories: [ life ]
 tags: []
 image: assets/images/20201014/1.jpg
-description: "Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau. Giật mình ngẩn ngơ, thu đã về?!!!"
+description: "Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau. Giật mình ngẩn ngơ, thu đã về?"
 featured: false
 hidden: false
 rating: 4.5
@@ -14,7 +14,7 @@ Buổi sáng thức dậy, vươn vai tận hưởng cái cảm giác se se lạ
 Một ngày mới đang bắt đầu với nhịp sống hối hả của những con người ở nơi đây.<br/>
 Ánh nắng chói chang của ngày hè đã khép lại, nhường chỗ cho không khí mát mẻ của đất trời.
 Từng cơn gió nhè nhẹ lướt trên con đường nhỏ, tiếng lá cây xào xạc thì thầm cùng nhau.<br/>
-Giật mình ngẩn ngơ, thu đã về?!!!
+Giật mình ngẩn ngơ, thu đã về?
 
 <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/20201014/2.jpg" alt="{{ page.title }}">
 
