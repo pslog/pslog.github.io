@@ -12,7 +12,7 @@ rating: 4.5
 ---
 À mà đó là khu của Karik, còn đây là viết về khu của mình đang sống nha.
 
-Gần sát bên dòng sông Kashio thơ mộng, đầy ắp tôm cá, vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh (hồi xưa hay chép tập làm văn mẫu nên quen quen).  
+Gần sát bên dòng sông Kashio thơ mộng, đầy ắp cá tôm, vợ chồng mình đang sống trong một căn phòng nhỏ nhỏ xinh xinh (hồi xưa hay chép tập làm văn mẫu nên quen quen).  
 Thời gian đúng là chẳng chờ đợi một ai.  
 Mới ngày nào tụi mình chuyển đến đây vào một ngày cuối đông.
 Thoắt cái rồi xuân, rồi tới hè cũng lần lượt đi qua, giờ thì đất trời bắt đầu chớm thu.  
