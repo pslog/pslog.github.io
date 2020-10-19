@@ -7,6 +7,7 @@ image: assets/images/12.jpg
 featured: false
 hidden: false
 rating: 4
+published: true
 ---
 Mở đầu chuỗi series về ngữ pháp tiếng Nhật sẽ là 「～てある」
 

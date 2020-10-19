@@ -9,6 +9,7 @@ description: "À mà đó là khu của Karik, còn đây là viết về khu c�
 featured: true
 hidden: true
 rating: 4.5
+published: true
 ---
 À mà đó là khu của Karik, còn đây là viết về khu của mình đang sống nha.
 

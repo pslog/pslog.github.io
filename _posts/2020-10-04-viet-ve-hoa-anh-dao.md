@@ -9,6 +9,7 @@ description: "花は桜木人は武士 Nếu là hoa, xin làm hoa anh đào..."
 featured: true
 hidden: true
 rating: 4.5
+published: true
 ---
 Nếu ở quê mình, mọi người vẫn thường ngân nga câu hát: "Nếu là hoa, tôi sẽ là một đóa hướng dương".<br/>
 Thì ở xứ sở mặt trời mọc, người ta có một câu nói: "Nếu là hoa, xin làm hoa anh đào".<br/>
