@@ -43,6 +43,6 @@ Chiếc lá cũng như đời người vậy.<br/>
 Lá xanh rồi đến lúc lá rụng.<br/>
 Thu đến rồi thu đi, không một ai sắp đặt. <br/>
 Cuộc sống từ ngàn đời nay vẫn thế.<br/>
-Tự nhủ lòng phải　sống hết mình để thời gian trôi qua không hề lãng phí, để khi một mai trở về với cát bụi không phải tiếc về một kiếp người...<br/>
+Tự nhủ lòng phải sống hết mình để thời gian trôi qua không hề lãng phí, để khi một mai trở về với cát bụi không phải tiếc về một kiếp người...<br/>
 
 <i>SinhVV, một chiều thu.</i>
