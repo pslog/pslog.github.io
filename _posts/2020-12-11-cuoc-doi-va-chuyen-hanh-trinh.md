@@ -35,7 +35,7 @@ Hay vì họ không muốn tưởng tượng ra nỗi sợ hãi mỗi khi lỡ b
 四十歳には課長になり、五十歳までになんとか部長に昇進する。<br/>
 
 Trên tấm bản đồ tưởng tượng ấy, những con đường cố hữu luôn được người ta vẽ ra, 
-và họ coi đó là một "bản thiết kế" của cuộc đời họ.<br/>
+và họ coi đó là một "bản thiết kế" của cuộc đời họ.
 - Kết hôn trước 30 tuổi.<br/>
 - Khoảng 35 tuổi thì phải có hai đứa con.<br/>
 - 40 tuổi được làm trưởng ban.<br/>
