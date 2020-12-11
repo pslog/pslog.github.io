@@ -36,10 +36,10 @@ Hay vì họ không muốn tưởng tượng ra nỗi sợ hãi mỗi khi lỡ b
 
 Trên tấm bản đồ tưởng tượng ấy, những con đường cố hữu luôn được người ta vẽ ra, 
 và họ coi đó là một "bản thiết kế" của cuộc đời họ.
-- Kết hôn trước 30 tuổi.<br/>
+- ... Kết hôn trước 30 tuổi.<br/>
 - Khoảng 35 tuổi thì phải có hai đứa con.<br/>
 - 40 tuổi được làm trưởng ban.<br/>
-- Và bằng mọi giá lên chức trưởng phòng trước tuổi 50.<br/>
+- Và bằng mọi giá lên chức trưởng phòng trước tuổi 50...<br/>
 
 人生の地図に描かれた道を、その通りに歩むことができるなら、そんなに楽なことはない。<br/>
 一度も脇道にそれずに、ただまっすぐに歩くことができるのなら、人は何も悩まなくても済むだろう。<br/>
