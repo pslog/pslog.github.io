@@ -11,7 +11,7 @@ hidden: false
 rating: 4.5
 <!--published: false-->
 ---
-人生とは<br/>
+人生とは？<br/>
 Theo như Wowy, cuộc đời mỗi người mình là nhân vật chính, thời gian là một cuộc hành trình...<br/>
 
 人生はいつも旅になぞらえられる。<br/>
