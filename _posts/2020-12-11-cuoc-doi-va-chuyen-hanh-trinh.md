@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cuộc đời là một chuyến hành trình"
-author: sinhvv
+author: binchan
 categories: [ life ]
 tags: []
 image: assets/images/20201004/6.jpg
